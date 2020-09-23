@@ -67,6 +67,9 @@ author:
     - label: "GScholar"
       icon: "fas fa-graduation-cap"
       url : "https://scholar.google.fr/citations?user=xxmXHDUAAAAJ"
+    - label: "ResearchGate"
+      icon: "fa fa-university"
+      url : "https://www.researchgate.net/profile/Alexandre_Vieira16"
 
 footer:
   links:
