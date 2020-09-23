@@ -29,7 +29,7 @@ title: Publications
 "Topology Optimization for Steady-state anisothermal flow targeting solid with piecewise constant thermal diffusivity", 2020. <br/>
 [HAL](https://hal.archives-ouvertes.fr/hal-02569142v1)
 
-## Theses
+## Thesis
 
 1. **A. Vieira** <br/>
 "Optimal control of linear complementarity systems" <br/>
