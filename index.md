@@ -12,7 +12,7 @@ I worked as a research engineer in [Pollen Metrology](https://pollen-metrology.c
 
 Before that, I was part of the [Tripop](https://team.inria.fr/tripop/) team as a PhD Student, under the supervision of [Bernard Brogliato](http://www.inrialpes.fr/bipop/people/brogliato/) and [Christophe Prieur](http://www.gipsa-lab.grenoble-inp.fr/~christophe.prieur). I defended on Sep. 25 2018.
 
-You can find my complete CV [here](../pdf/CVAlexandreVieira.pdf).
+You can find my complete CV (in french) [here](../pdf/CVAlexandreVieira.pdf).
 
 ## Research interests
 * Optimal control of complementarity and other non-smooth systems.
