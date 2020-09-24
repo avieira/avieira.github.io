@@ -29,6 +29,20 @@ title: Publications
 "Topology Optimization for Steady-state anisothermal flow targeting solid with piecewise constant thermal diffusivity", 2020. <br/>
 [HAL](https://hal.archives-ouvertes.fr/hal-02569142v1)
 
+
+## Talks
+1. **A. Vieira**, P.-H. Cocquet, A. Bastide<br/>
+"Multimaterial topology optimization of a heated channel", 
+EUROPT, Toulouse (France), 2020 but reported due to Covid-19.
+
+2. **A. Vieira**, B.Brogliato, Ch. Prieur <br/>
+"Quadratic optimal control of linear complementarity systems"<br/>
+*International Symposium on Mathematical Programming*, Bordeaux (France), 2018.
+
+3. **A. Vieira**, B.Brogliato, Ch. Prieur <br/>
+"On the optimal control of linear complementarity systems"<br/>
+*Conference of state constrained dynamical system*, Padova (Italy), 2017.
+
 ## Thesis
 
 1. **A. Vieira** <br/>
