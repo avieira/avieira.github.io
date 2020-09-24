@@ -15,7 +15,7 @@ title: Publications
 
 1. **A. Vieira**, B. Brogliato, Ch. Prieur <br/>
 "Optimality conditions for the minimal time problem for Complementarity Systems," <br/>
-*IFAC-PapersOnLine*, 2019i, vol. 52, no 16, p. 239-244. <br/>
+*IFAC-PapersOnLine*, 2019, vol. 52, no 16, p. 239-244. <br/>
 [HAL](https://hal.archives-ouvertes.fr/hal-01856054v1)
 
 2. **A. Vieira**, B. Brogliato, Ch. Prieur <br/>
