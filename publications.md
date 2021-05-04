@@ -51,6 +51,5 @@ EUROPT, Toulouse (France), 2020, reported due to Covid-19.
 
 1. **A. Vieira** <br/>
 "Optimal control of linear complementarity systems" <br/>
-Ph.D. Thesis, Univ. Grenoble Alpes. <br/>
-[TEL](https://tel.archives-ouvertes.fr/tel-01989048)
+Ph.D. Thesis, Univ. Grenoble Alpes. <br/>[TEL](https://tel.archives-ouvertes.fr/tel-01989048)
 
