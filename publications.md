@@ -27,7 +27,11 @@ title: Publications
 ## Submitted
 1. **A. Vieira**, A. Bastide, P.-H. Cocquet <br/>
 "Topology Optimization for Steady-state anisothermal flow targeting solid with piecewise constant thermal diffusivity", 2020. <br/>
-[HAL](https://hal.archives-ouvertes.fr/hal-02569142v1)
+[HAL](https://hal.archives-ouvertes.fr/hal-02569142v2)
+
+2. **A. Vieira**, P.-H. Cocquet <br/>
+"The Boussinesq system with non-smooth boundary conditions : existence, relaxation and topology optimization.", 2021. <br/>
+[HAL](https://hal.archives-ouvertes.fr/hal-03207923v1)
 
 
 ## Talks

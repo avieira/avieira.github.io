@@ -2,3 +2,4 @@ _site
 .sass-cache
 .jekyll-metadata
 Gemfile.lock
+_posts/2019-04-18-welcome-to-jekyll.md
