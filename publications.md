@@ -37,7 +37,7 @@ title: Publications
 ## Talks
 1. **A. Vieira**, P.-H. Cocquet, A. Bastide<br/>
 "Multimaterial topology optimization of a heated channel", 
-EUROPT, Toulouse (France), 2020, reported due to Covid-19.
+EUROPT, Toulouse (France), 2020, reported due to Covid-19 in 2021.<br/>[PDF](pdf/talks/presentation_EUROPT2021.pdf)
 
 2. **A. Vieira**, B.Brogliato, Ch. Prieur <br/>
 "Quadratic optimal control of linear complementarity systems"<br/>
