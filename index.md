@@ -17,8 +17,8 @@ You can find my complete CV (in french) [here](../pdf/CVAlexandreVieira.pdf).
 ## Research interests
 * Optimal control of complementarity and other non-smooth systems.
 * Topology Optimization related with flows.
+* Domain decomposition.
 * Parallel computing.
-* ...
 
 ## Contact
 Mail: alexandre.vieira (at) univ-pau.fr
