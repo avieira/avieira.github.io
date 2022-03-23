@@ -8,7 +8,7 @@ title: Publications
 1. **A. Vieira**, A. Bastide, P.-H. Cocquet <br/>
 "Topology Optimization for Steady-state anisothermal flow targeting solid with piecewise constant thermal diffusivity", 
 *Applied Mathematics and Optimization*, 2022, accepted for publication. <br/>
-[HAL](https://hal.archives-ouvertes.fr/hal-02569142v2)
+[HAL](https://hal.archives-ouvertes.fr/hal-02569142v3)
 
 2. **A. Vieira**, B. Brogliato, Ch. Prieur <br/>
 "Quadratic Optimal Control of Linear Complementarity Systems : First order conditions and numerical analysis" <br/>
@@ -31,7 +31,7 @@ title: Publications
 ## Submitted
 1. **A. Vieira**, P.-H. Cocquet <br/>
 "The Boussinesq system with non-smooth boundary conditions : existence, relaxation and topology optimization.", 2021. <br/>
-[HAL](https://hal.archives-ouvertes.fr/hal-03207923v1)
+[HAL](https://hal.archives-ouvertes.fr/hal-03207923v2)
 
 ## Conferences
 1. *27th International Domain Decomposition Conference*, Prague (Czech Republic), 2022.
