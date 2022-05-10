@@ -7,8 +7,9 @@ title: Publications
 ## Peer-reviewed papers in journals
 1. **A. Vieira**, A. Bastide, P.-H. Cocquet <br/>
 "Topology Optimization for Steady-state anisothermal flow targeting solid with piecewise constant thermal diffusivity", 
-*Applied Mathematics and Optimization*, 2022, accepted for publication. <br/>
+*Applied Mathematics and Optimization*, 2022, published online. <br/>
 [HAL](https://hal.archives-ouvertes.fr/hal-02569142v3)
+[Link](https://doi.org/10.1007/s00245-022-09828-5)
 
 2. **A. Vieira**, B. Brogliato, Ch. Prieur <br/>
 "Quadratic Optimal Control of Linear Complementarity Systems : First order conditions and numerical analysis" <br/>
