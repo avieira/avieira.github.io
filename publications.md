@@ -42,15 +42,23 @@ title: Publications
 
 
 ## Talks
-1. **A. Vieira**, P.-H. Cocquet, A. Bastide<br/>
+1. **A. Vieira**<br/>
+"Topology optimization: concepts, application to a heated channel and parallelization", 
+Univ. Genève (Switzerland), 2022.<br/>[PDF](pdf/talks/presentation_Geneve2022.pdf)
+
+2. **A. Vieira**<br/>
+"Optimal control : analysis and parallel computation", 
+LAMPS, Perpignan (France), 2022.<br/>[PDF](pdf/talks/presentation_Perpignan2022.pdf)
+
+3. **A. Vieira**, P.-H. Cocquet, A. Bastide<br/>
 "Multimaterial topology optimization of a heated channel", 
 EUROPT, Toulouse (France), 2020, reported due to Covid-19 in 2021.<br/>[PDF](pdf/talks/presentation_EUROPT2021.pdf)
 
-2. **A. Vieira**, B.Brogliato, Ch. Prieur <br/>
+4. **A. Vieira**, B.Brogliato, Ch. Prieur <br/>
 "Quadratic optimal control of linear complementarity systems"<br/>
 *International Symposium on Mathematical Programming*, Bordeaux (France), 2018.
 
-3. **A. Vieira**, B.Brogliato, Ch. Prieur <br/>
+5. **A. Vieira**, B.Brogliato, Ch. Prieur <br/>
 "On the optimal control of linear complementarity systems"<br/>
 *Control of state constrained dynamical system*, Padova (Italy), 2017.
 
