@@ -5,16 +5,21 @@ title: Publications
 ---
 
 ## Peer-reviewed papers in journals
-1. **A. Vieira**, A. Bastide, P.-H. Cocquet <br/>
+1. **A. Vieira**, P.-H. Cocquet <br/>
+"The Boussinesq system with non-smooth boundary conditions : existence, relaxation and topology optimization.", 
+*SIAM Journal of Optimal Control*, 2022, in press. <br/>
+[HAL](https://hal.archives-ouvertes.fr/hal-03207923)
+
+2. **A. Vieira**, A. Bastide, P.-H. Cocquet <br/>
 "Topology Optimization for Steady-state anisothermal flow targeting solid with piecewise constant thermal diffusivity", 
 *Applied Mathematics and Optimization*, 2022, published online. <br/>
-[HAL](https://hal.archives-ouvertes.fr/hal-02569142v3)
+[HAL](https://hal.archives-ouvertes.fr/hal-02569142)
 [Link](https://doi.org/10.1007/s00245-022-09828-5)
 
-2. **A. Vieira**, B. Brogliato, Ch. Prieur <br/>
+3. **A. Vieira**, B. Brogliato, Ch. Prieur <br/>
 "Quadratic Optimal Control of Linear Complementarity Systems : First order conditions and numerical analysis" <br/>
 *IEEE Transactions on Automatic Control*, vol. 65, no. 6, pp. 2743-2750, June 2020.
-[HAL](https://hal.archives-ouvertes.fr/hal-01690400v3)
+[HAL](https://hal.archives-ouvertes.fr/hal-01690400)
 
 ## Peer-reviewed proceedings
 
@@ -30,9 +35,8 @@ title: Publications
 
 
 ## Submitted
-1. **A. Vieira**, P.-H. Cocquet <br/>
-"The Boussinesq system with non-smooth boundary conditions : existence, relaxation and topology optimization.", 2021. <br/>
-[HAL](https://hal.archives-ouvertes.fr/hal-03207923v2)
+1. **A. Vieira**, P.-H. Cocquet, M. Gander <br/>
+A FETI-inspired approach for a linear quadratic optimal control problem, 2022.
 
 ## Conferences
 1. *27th International Domain Decomposition Conference*, Prague (Czech Republic), 2022.
