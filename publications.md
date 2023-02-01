@@ -7,12 +7,13 @@ title: Publications
 ## Peer-reviewed papers in journals
 1. **A. Vieira**, P.-H. Cocquet <br/>
 "The Boussinesq system with non-smooth boundary conditions : existence, relaxation and topology optimization.", 
-*SIAM Journal of Optimal Control*, 2022, in press. <br/>
+*SIAM Journal of Optimal Control*, 2022, 60(6), 3457-3484. <br/>
 [HAL](https://hal.archives-ouvertes.fr/hal-03207923)
+[Link](https://doi.org/10.1137/21M1465159)
 
 2. **A. Vieira**, A. Bastide, P.-H. Cocquet <br/>
 "Topology Optimization for Steady-state anisothermal flow targeting solid with piecewise constant thermal diffusivity", 
-*Applied Mathematics and Optimization*, 2022, published online. <br/>
+*Applied Mathematics and Optimization*, 2022, 85(3), 41. <br/>
 [HAL](https://hal.archives-ouvertes.fr/hal-02569142)
 [Link](https://doi.org/10.1007/s00245-022-09828-5)
 
