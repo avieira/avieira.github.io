@@ -35,9 +35,11 @@ title: Publications
 [HAL](https://hal.archives-ouvertes.fr/hal-01493188v2)
 
 
-## Submitted
+## Submitted soon
 1. **A. Vieira**, P.-H. Cocquet, M. Gander <br/>
 A FETI-inspired approach for a linear quadratic optimal control problem, 2022.
+[PDF](pdf/liquofeti.pdf)
+
 
 ## Conferences
 1. *27th International Domain Decomposition Conference*, Prague (Czech Republic), 2022.
