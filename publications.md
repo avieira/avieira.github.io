@@ -35,10 +35,15 @@ title: Publications
 [HAL](https://hal.archives-ouvertes.fr/hal-01493188v2)
 
 
-## Submitted soon
+## Prepublications
 1. **A. Vieira**, P.-H. Cocquet, M. Gander <br/>
 A FETI-inspired approach for a linear quadratic optimal control problem, 2022.
 [PDF](pdf/liquofeti.pdf)
+
+2. **A. Vieira**, P.-H. Cocquet <br/>
+Optimized Schwarz method for coupled direct-adjoint problems applied to parameter identification in advection-diffusion equation. 
+Submitted for Proceedings of the conference Domain Decomposition Methods in Science and Engineering XXVII. Springer
+[PDF](pdf/Proceeding_DD27.pdf)
 
 
 ## Conferences
