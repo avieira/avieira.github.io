@@ -69,6 +69,11 @@ EUROPT, Toulouse (France), 2020, reported due to Covid-19 in 2021.<br/>[PDF](pdf
 "On the optimal control of linear complementarity systems"<br/>
 *Control of state constrained dynamical system*, Padova (Italy), 2017.
 
+## Posters
+1. **A. Vieira**, P.-H. Cocquet<br/>
+"LiQuOFETI : a FETI-inspired method for elliptic quadratic optimal control problems", 
+CIRM (Marseille, France), Sept. 2022.<br/>[PDF](pdf/posters/Poster_liquofeti.pdf)
+
 ## Thesis
 
 1. **A. Vieira** <br/>
