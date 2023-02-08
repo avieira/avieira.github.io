@@ -72,6 +72,7 @@ EUROPT, Toulouse (France), 2020, reported due to Covid-19 in 2021.<br/>[PDF](pdf
 ## Posters
 1. **A. Vieira**, P.-H. Cocquet<br/>
 "LiQuOFETI : a FETI-inspired method for elliptic quadratic optimal control problems", 
+Research School - Domain Decomposition for Optimal Control Problems <br/>
 CIRM (Marseille, France), Sept. 2022.<br/>[PDF](pdf/posters/Poster_liquofeti.pdf)
 
 ## Thesis
