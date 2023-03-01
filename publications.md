@@ -42,7 +42,7 @@ Accepted in Proceedings of the conference Domain Decomposition Methods in Scienc
 ## Prepublications
 1. **A. Vieira**, P.-H. Cocquet, M. Gander <br/>
 A FETI-inspired approach for a linear quadratic optimal control problem, 2022.
-[PDF](pdf/liquofeti.pdf)
+[PDF](../pdf/liquofeti.pdf)
 
 
 
