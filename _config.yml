@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Alexandre Vieira
-email: alexandre.vieira.at.univ-pau.fr
+email: alexandre.vieira.at.unice.fr
 description: >- # this means to ignore newlines until "baseurl:"
   Personal webpage of Alexandre Vieira. News and different publications related to optimal control.
 #twitter_username: username
@@ -59,7 +59,7 @@ author:
   name   : "Alexandre Vieira"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Postdoctoral researcher in applied mathematics."
-  location : "Pau, France"
+  location : "Nice, France"
   links:
     - label: "GitLab"
       icon: "fab fa-fw fa-github"
