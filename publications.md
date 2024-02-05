@@ -41,13 +41,16 @@ Accepted in Proceedings of the conference Domain Decomposition Methods in Scienc
 
 ## Prepublications
 1. **A. Vieira**, P.-H. Cocquet, M. Gander <br/>
-A FETI-inspired approach for a linear quadratic optimal control problem, 2024.
+Decompose-then-optimize: a new approach to design domain decomposition methods for optimal control problems, 2024.
 [PDF](pdf/liquofeti.pdf)
 
 2. **A. Vieira** <br/>
 A priori error estimate for the reduced Hsieh-Clough-Tocher discretization of viscosity identification in Navier-Stokes Equations, 2023.
 [PDF](pdf/Viscosity_identification_in_Navier_Stokes_Equation_using_stream_functions.pdf)
 
+3. J. Labarbe, **A. Vieira**, D. Clamond <br/>
+Optimal reconstruction of water-waves from pressure measurements at the seabed, 2024.
+[PDF](pdf/papier_joris.pdf)
 
 ## Conferences
 1. *27th International Domain Decomposition Conference*, Prague (Czech Republic), 2022.
