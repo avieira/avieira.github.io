@@ -52,6 +52,10 @@ A priori error estimate for the reduced Hsieh-Clough-Tocher discretization of vi
 Optimal reconstruction of water-waves from pressure measurements at the seabed, 2024.
 [PDF](pdf/papier_joris.pdf)
 
+4. **A. Vieira** <br/>
+Parameters identification in 2D reduced MHD equations using partial Fourier modes observations.
+[PDF](pdf/AOT_algorithm_for_2D_reduced_MHD.pdf)
+
 ## Conferences
 1. *27th International Domain Decomposition Conference*, Prague (Czech Republic), 2022.
 2. *EUROPT*, Toulouse (France), 2021.
