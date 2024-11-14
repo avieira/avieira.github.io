@@ -6,7 +6,9 @@ title: Welcome on Alexandre Vieira's personal webpage.
 
 ## About me
 
-I am currently (since October 2022) a postdoctoral researcher in the [LJAD](https://math.unice.fr/) lab, [fluid mechanics](https://math.unice.fr/laboratoire/equipes-de-recherche/mod%c3%a9lisation-num%c3%a9rique-et-dynamique-des-fluides.html) team. I am working under the supervision of Dr Florence Marcotte, Pr Dider Auroux and Pr Hervé Guillard.
+I am currently (since October 2024) a postdoctoral researcher in the [ACUMES](https://team.inria.fr/acumes/) team at [Inria Côte d'Azur](https://www.inria.fr/en/inria-centre-universite-cote-azur), working with Dr Laurent Monasse, in a joint collaboration with [Altair](https://altairengineering.fr/).
+
+Before that, I've been a postdoctoral researcher in the [LJAD](https://math.unice.fr/) lab, [fluid mechanics](https://math.unice.fr/laboratoire/equipes-de-recherche/mod%c3%a9lisation-num%c3%a9rique-et-dynamique-des-fluides.html) team between October 2022 and September 2024. I am working under the supervision of Dr Florence Marcotte, Pr Dider Auroux and Pr Hervé Guillard.
 
 I've been between January 2020 and May 2022 a postdoctoral researcher in the [PIMENT](https://piment.univ-reunion.fr/) lab and working in the UPPA (Université de Pau et des Pays de l'Adour), under the supervision of Dr. Pierre-Henri Cocquet.
 
@@ -22,6 +24,7 @@ You can find my complete CV (in french) [here](../pdf/CVAlexandreVieira.pdf).
 * Inverse problems for flows.
 * Domain decomposition.
 * Parallel computing.
+* Cut-cell methods
 
 ## Contact
-Mail: alexandre.vieira (at) unice.fr
+Mail: alexandre.vieira (at) inria.fr
