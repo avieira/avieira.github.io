@@ -5,24 +5,29 @@ title: Publications
 ---
 
 ## Peer-reviewed papers in journals
-1. J. Labarbe, **A. Vieira**, D. Clamond <br/>
+1. **A. Vieira**, P.-H. Cocquet, M. Gander <br/>
+Decompose-then-optimize: a new approach to design domain decomposition methods for optimal control problems, 2024.
+[HAL](https://hal.science/hal-04999634)
+[Link](https://link.springer.com/article/10.1007/s11075-025-02046-4)
+
+2. J. Labarbe, **A. Vieira**, D. Clamond <br/>
 Optimal reconstruction of water-waves from pressure measurements at the seabed, *Computers & Fluids*, Volume 284, 2024.
 [ARXIV](https://arxiv.org/abs/2402.07930)
 [Link](https://doi.org/10.1016/j.compfluid.2024.106437)
 
-2. **A. Vieira**, P.-H. Cocquet <br/>
+3. **A. Vieira**, P.-H. Cocquet <br/>
 "The Boussinesq system with non-smooth boundary conditions : existence, relaxation and topology optimization.", 
 *SIAM Journal of Optimal Control*, 2022, 60(6), 3457-3484. <br/>
 [HAL](https://hal.archives-ouvertes.fr/hal-03207923)
 [Link](https://doi.org/10.1137/21M1465159)
 
-3. **A. Vieira**, A. Bastide, P.-H. Cocquet <br/>
+4. **A. Vieira**, A. Bastide, P.-H. Cocquet <br/>
 "Topology Optimization for Steady-state anisothermal flow targeting solid with piecewise constant thermal diffusivity", 
 *Applied Mathematics and Optimization*, 2022, 85(3), 41. <br/>
 [HAL](https://hal.archives-ouvertes.fr/hal-02569142)
 [Link](https://doi.org/10.1007/s00245-022-09828-5)
 
-4. **A. Vieira**, B. Brogliato, Ch. Prieur <br/>
+5. **A. Vieira**, B. Brogliato, Ch. Prieur <br/>
 "Quadratic Optimal Control of Linear Complementarity Systems : First order conditions and numerical analysis" <br/>
 *IEEE Transactions on Automatic Control*, vol. 65, no. 6, pp. 2743-2750, June 2020.
 [HAL](https://hal.archives-ouvertes.fr/hal-01690400)
@@ -45,16 +50,11 @@ Accepted in Proceedings of the conference Domain Decomposition Methods in Scienc
 
 
 ## Prepublications
-1. **A. Vieira**, P.-H. Cocquet, M. Gander <br/>
-Decompose-then-optimize: a new approach to design domain decomposition methods for optimal control problems, 2024.
-[PDF](pdf/liquofeti.pdf)
-
-2. **A. Vieira** <br/>
+1. **A. Vieira** <br/>
 A priori error estimate for the reduced Hsieh-Clough-Tocher discretization of viscosity identification in Navier-Stokes Equations, 2023.
 [PDF](pdf/Viscosity_identification_in_Navier_Stokes_Equation_using_stream_functions.pdf)
 
-3.
-4. **A. Vieira** <br/>
+2. **A. Vieira** <br/>
 Parameters identification in 2D reduced MHD equations using partial Fourier modes observations.
 [PDF](pdf/AOT_algorithm_for_2D_reduced_MHD.pdf)
 
